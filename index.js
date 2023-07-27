@@ -97,7 +97,7 @@ function buttonAnimation(currentKey) {
 
    setTimeout(function(){
     currentButton.classList.remove("pressed");
-   }, 250);
+   }, 150);
   
 
 
